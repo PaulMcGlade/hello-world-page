@@ -1,9 +1,9 @@
 Hello World Personal Page
 =========================
 
-A stylish and personable webpage to tell the world about yourself. View the [demo page](http://timpotter.github.io/hello-world-page/). 
+A stylish and personable webpage to tell the world about yourself. View the [demo page](https://github.com/damonrodgers/hello-world-page/). 
 
-![alt text](http://tejpotter.com/projects/hello-world-page/background.jpg "Hello World Personal Page by Tim Potter")
+![alt text](http://damonrodgers.com/projects/hello-world-page/background.jpg "Hello World Personal Page by Tim Potter")
 
 
 
@@ -19,14 +19,14 @@ You can use the default background image or set a custom image of your choice. F
 <body>
 ```
 
-![alt text](http://tejpotter.com/projects/hello-world-page/vanilla.jpg "Hello World Personal Page by Tim Potter")
+![alt text](http://tejpotter.com/projects/hello-world-page/vanilla.jpg "Hello World Personal Page by Damon Rodgers")
 
 ###Add your avatar 
 
 Copy and paste a link to your avatar from an existing social/service account, or upload your own.
 
 ```
-<img class="avatar" src="https://s3.amazonaws.com/uifaces/faces/twitter/aio___/128.jpg" alt="My Avatar" />
+<img class="avatar" src="https://scontent-lhr3-1.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/11898639_1014523248587549_8090675014164323639_n.jpg?oh=90c541cbec1612f2743027e7ff296850&oe=5690D8E6" alt="My Avatar" />
 ````
 
 
